@@ -255,3 +255,54 @@ body {
     width: calc(33.33% - 10px); /* Ajusta a largura para 3 cards por linha */
     margin: 0; /* Remove margens extras */
 }
+
+
+/* Media query para mobile */
+@media (max-width: 480px) {
+    body {
+        flex-direction: column;
+        padding: 10px;
+    }
+    
+    .sidebar {
+        position: static;
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    
+    .game-container {
+        margin-left: 0;
+        justify-content: space-between;
+    }
+    
+    .game-card {
+        width: calc(33.33% - 10px); /* 3 cards por linha */
+        min-width: 100px;
+    }
+    
+    /* Ajustes para os elementos dentro da sidebar */
+    .sidebar input,
+    .sidebar button,
+    .sidebar select {
+        padding: 8px;
+        margin-bottom: 8px;
+    }
+    
+    /* Ajuste para coleções em mobile */
+    .collection-card {
+        width: 100%;
+    }
+    
+    .collection-games .game-card {
+        width: calc(33.33% - 10px);
+    }
+}
+
+/* Ajustes adicionais para telas muito pequenas */
+@media (max-width: 360px) {
+    .game-card {
+        width: calc(50% - 5px); /* 2 cards por linha em telas muito pequenas */
+    }
+}
+

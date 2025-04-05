@@ -6,7 +6,6 @@
 }
 
 body {
-    background-color: #f5f5f5;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -18,7 +17,7 @@ body {
     display: flex;
     width: 100%; /* Alterado para 100% */
     max-width: 1200px;
-    background-color: white;
+    background-color: rgb(0, 0, 0, 0.65);
     border-radius: 15px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -41,6 +40,7 @@ body {
     height: auto;
     border-radius: 10px;
     object-fit: contain; /* Garante que a imagem inteira seja visível */
+
 }
 
 .buttons-container {
@@ -68,7 +68,7 @@ body {
     align-items: stretch;
     justify-content: space-between;
     padding: 0;
-    background-color: #4a6fa5;
+    background-color: #333;
     color: white;
     border: none;
     border-radius: 8px;
@@ -81,7 +81,7 @@ body {
 }
 
 .custom-button:hover {
-    background-color: #3a5a8a;
+    background-color: #3b3b3b;
     transform: translateY(-3px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
@@ -150,6 +150,11 @@ body {
         padding: 10px;
     }
     
+    .center-image {
+        margin-top: 50px;
+        max-width: 100%;
+        max-height: 100%; }
+
     .image-container {
         max-height: 40vh;
     }
@@ -157,11 +162,6 @@ body {
     .button-text {
         font-size: 14px;
     }
-
-    .center-image {
-    margin-top: 100px;
-    max-width: 100%;
-    max-height: 100%; 
     
     .custom-button {
         height: 50px;
@@ -169,5 +169,27 @@ body {
     
     .button-icon {
         width: 40px;
+    }
+}
+
+.animated-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200%; /* Dobro da largura */
+    height: 200%; /* Dobro da altura */
+    background-image: url('img/FUNDO.png');
+    background-size: 40% 40%; /* Reduz o tamanho para caber duas vezes */
+    background-repeat: repeat;
+    z-index: -1;
+    animation: moveBackground 300s linear infinite;
+}
+
+@keyframes moveBackground {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(-170%, -155%); /* Metade do tamanho da imagem */
     }
 }
