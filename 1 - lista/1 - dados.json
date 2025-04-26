@@ -236,7 +236,7 @@
             "genres": ["Aventura","Clássico"],
             "platform": ["Steam"],
             "dev": ["Konami"],
-            "img": "https://cdn2.steamgriddb.com/grid/f1f01bb2bebcea22933510b30d65be08.jpg"
+            "img": "https://cdn2.steamgriddb.com/grid/af3f3aefaf93ea8364b3e2cb27b9594c.png"
         },{
             "game": "Castlevania 4",
             "serie": "Castlevania",
@@ -522,7 +522,7 @@
         "serie": "Dragon Ball",
         "title": "Dragon Ball Z Budokai Tenkaichi 3",
         "year": [2007, 2025],
-        "score": 6,
+        "score": 5,
         "time": 0,
         "conq": 0,
         "played": 1,
@@ -759,7 +759,7 @@
         "game": "Horizon Chase Turbo",
         "serie": "Horizon Chase",
         "title": "Horison Chase Turbo",
-        "year": [2018, 2025],
+        "year": [2018, 2024],
         "score": 6,
         "time": 0,
         "conq": 0,
@@ -908,7 +908,7 @@
         "genres": ["Puzzle"],
         "platform": ["Steam"],
         "dev": ["Square Enix"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/02da854e43410fcda2e3acab7693482c.png"
     },{
         "game": "Left 4 Dead 2",
         "serie": "Left 4 Dead",
@@ -922,7 +922,7 @@
         "genres": ["FPS"],
         "platform": ["Steam"],
         "dev": ["Valve"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/248fc45afe6980b6b520b592ff9de696.png"
     },{
         "game": "Limbo",
         "serie": "",
@@ -936,7 +936,7 @@
         "genres": ["Plataforma 2D"],
         "platform": ["Steam"],
         "dev": ["Playdead"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/63f5f8a5fdada75292bf7929e7475a7b.png"
     },{
         "game": "Little Nightmares 1",
         "serie": "Little Nightmares",
@@ -950,7 +950,7 @@
         "genres": ["Plataforma 3D"],
         "platform": ["Steam"],
         "dev": ["Bandai Namco"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/44b4034e6b33988e2b4539a0783215b9.png"
     },{
         "game": "Mario Kart 8",
         "serie": "Mario Kart",
@@ -964,7 +964,7 @@
         "genres": ["Corrida"],
         "platform": ["Wii U"],
         "dev": ["Nintendo"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/08685bf36516348b810ede4e3c1dfe52.png"
     },{
         "game": "Super Mario Party Jamboree",
         "serie": "Mario Party",
@@ -978,21 +978,21 @@
         "genres": ["Tabuleiro"],
         "platform": ["Switch"],
         "dev": ["Nintendo"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/d8990f79de598c52139e95e819c86c8c.png"
     },{
         "game": "Mario Party Super",
         "serie": "Mario Party",
         "title": "Mario Party Superstars",
-        "year": [2021, 2024],
+        "year": [2021, 2025],
         "score": 10,
         "time": 0,
         "conq": 0,
-        "played": 1,
+        "played": 10,
         "n": 0,
         "genres": ["Tabuleiro"],
         "platform": ["Switch"],
         "dev": ["Nintendo"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/2df6a99eec56aa765a8476eb586b1c78.png"
     },{
         "game": "Mega Man 2",
         "serie": "Mega Man",
@@ -1006,7 +1006,7 @@
         "genres": ["Plataforma 2D"],
         "platform": ["NES"],
         "dev": ["Capcom"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/16266c6156a9fda5bbd9ea9a566042bd.png"
     },{
         "game": "Metal Gear Solid",
         "serie": "Metal Gear",
@@ -1020,7 +1020,7 @@
         "genres": ["Tático"],
         "platform": ["PS1"],
         "dev": ["Konami","Kojima"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/3ac4511ba0302570efea191ea1a2d0b4.jpg"
     },{
         "game": "Metal Slug 1",
         "serie": "Metal Slug",
@@ -1034,7 +1034,7 @@
         "genres": ["Bullet Hell"],
         "platform": ["Steam"],
         "dev": ["SNK"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/d1e7855ad5661be34a233bf4758b5faf.jpg"
     },{
         "game": "Metal Slug 2",
         "serie": "Metal Slug",
@@ -1048,7 +1048,7 @@
         "genres": ["Bullet Hell"],
         "platform": ["Steam"],
         "dev": ["SNK"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/36de309602983818b4c2b9b606ef4ff4.png"
     },{
         "game": "Metal Slug 3",
         "serie": "Metal Slug",
@@ -1062,7 +1062,7 @@
         "genres": ["Bullet Hell"],
         "platform": ["Steam"],
         "dev": ["SNK"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/a49646ec0f73e4f4d604ace0f5772dfb.png"
     },{
         "game": "Metal Slug X",
         "serie": "Metal Slug",
@@ -1076,7 +1076,7 @@
         "genres": ["Bullet Hell"],
         "platform": ["Steam"],
         "dev": ["SNK"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/3cd722cab13298efc26ddcd2dfe93412.png"
     },{
         "game": "Minecraft 1J",
         "serie": "Minecraft",
@@ -1090,7 +1090,7 @@
         "genres": ["Sandbox"],
         "platform": ["Windows"],
         "dev": ["Mojang","Microsoft"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/efc6e26ff4b44d54c7760f184ee68506.png"
     },{
         "game": "Minecraft SM",
         "serie": "Minecraft",
@@ -1104,7 +1104,7 @@
         "genres": ["Point and Click"],
         "platform": ["Pirata"],
         "dev": ["Telltale"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/7a42d04dbcdcccece898bfbc2bb6d326.png"
     },{
         "game": "Mortal Kombat 10",
         "serie": "Mortal Kombat",
@@ -1118,7 +1118,7 @@
         "genres": ["Luta 2D"],
         "platform": ["Steam"],
         "dev": ["NetherRealm","Warner Bros"],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/586f23f34a45b8332037aa35d29a8af1.jpg"
     },{
         "game": "Muse Dash",
         "serie": "",
@@ -1132,9 +1132,288 @@
         "genres": ["Música"],
         "platform": ["Steam"],
         "dev": [""],
-        "img": ""
+        "img": "https://cdn2.steamgriddb.com/grid/77a07f1858540fc83ef2dc03a7f73ca1.png"
+    },{
+        "game": "Ori and the Blind Forest",
+        "serie": "Ori",
+        "title": "Ori and the Blind Forest",
+        "year": [2015, 2020],
+        "score": 8,
+        "time": 0,
+        "conq": 0,
+        "played": 1,
+        "n": 0,
+        "genres": ["Metroidvania"],
+        "platform": ["Gamepass"],
+        "dev": ["Moon Studios", "Microsoft"],
+        "img": "https://cdn2.steamgriddb.com/grid/d4aa28edb4a7e60bf8a800ef24c26eb3.png"
+    },{
+        "game": "Outlast",
+        "serie": "Outlast",
+        "title": "Outlast",
+        "year": [2013, 2022],
+        "score": 7,
+        "time": 5,
+        "conq": 35,
+        "played": 1,
+        "n": 0,
+        "genres": ["Terror"],
+        "platform": ["Steam"],
+        "dev": [""],
+        "img": "https://cdn2.steamgriddb.com/grid/25644b95de790aea9e0cb3d19b17a945.png"
+    },{
+        "game": "Papers Please",
+        "serie": "",
+        "title": "Papers, Please",
+        "year": [2013, 2024],
+        "score": 3,
+        "time": 0,
+        "conq": 0,
+        "played": 1,
+        "n": 0,
+        "genres": ["Point and Click"],
+        "platform": ["Steam"],
+        "dev": ["Lucas Pope"],
+        "img": "https://cdn2.steamgriddb.com/grid/657521cffefffb720284d2176c9164c2.png"
+    },{
+        "game": "PaRappa 1",
+        "serie": "PaRappa the Rapper",
+        "title": "PaRappa the Rapper",
+        "year": [1996, 2024],
+        "score": 3,
+        "time": 0,
+        "conq": 0,
+        "played": 1,
+        "n": 0,
+        "genres": ["Música"],
+        "platform": ["PS1"],
+        "dev": ["Sony"],
+        "img": "https://cdn2.steamgriddb.com/grid/0628c0f305576249f866b2ff542dd076.png"
+    },{
+        "game": "PICO PARK 0",
+        "serie": "PICO PARK",
+        "title": "PICO PARK: Classic Edition",
+        "year": [2016, 2024],
+        "score": 5,
+        "time": 0,
+        "conq": 0,
+        "played": 3,
+        "n": 0,
+        "genres": ["Cooperativo"],
+        "platform": ["Steam"],
+        "dev": [""],
+        "img": "https://cdn2.steamgriddb.com/grid/0ac6d0b2330dddcb2d0393a2d0239321.jpg"
+    },{
+        "game": "Plague Inc",
+        "serie": "",
+        "title": "Plague Inc. Evolved",
+        "year": [2015, 2023],
+        "score": 6,
+        "time": 0,
+        "conq": 0,
+        "played": 1,
+        "n": 0,
+        "genres": ["Estratégia"],
+        "platform": ["Steam"],
+        "dev": [""],
+        "img": "https://cdn2.steamgriddb.com/grid/da8a8e9cbcc29f7a06600fc7b6ce72ba.jpg"
+    },{
+        "game": "Plants vs Zombies 1",
+        "serie": "Plants vs Zombies",
+        "title": "Plants vs Zombies",
+        "year": [2009, 2024],
+        "score": 9,
+        "time": 32,
+        "conq": 90,
+        "played": 2,
+        "n": 0,
+        "genres": ["Tower Defense"],
+        "platform": ["Steam"],
+        "dev": ["PopCap", "Eletronic Arts"],
+        "img": "https://cdn2.steamgriddb.com/grid/2d90fb02a6b419955fe1b3e5bca102d2.png"
+    },{
+        "game": "Portal",
+        "serie": "Portal",
+        "title": "Portal",
+        "year": [2007, 2022],
+        "score"   : 6,
+        "time": 4,
+        "conq": 46,
+        "played": 1,
+        "n": 0,
+        "genres": ["Puzzle"],
+        "platform": ["Steam"],
+        "dev": ["Valve"],
+        "img": "https://cdn2.steamgriddb.com/grid/41a69c66f821f25c8184aea3bb35225d.png"
+    },{
+        "game": "Portal 2",
+        "serie": "Portal",
+        "title": "Portal 2",
+        "year": [2011, 2021],
+        "score": 10,
+        "time": 26,
+        "conq": 37,
+        "played": 1,
+        "n": 0,
+        "genres": ["Puzzle"],
+        "platform": ["Steam"],
+        "dev": ["Valve"],
+        "img": "https://cdn2.steamgriddb.com/grid/7668636048c4fbe8df8ffb388679e933.png"
+    },{
+        "game": "Puyo Puyo T",
+        "serie": "Tetris",
+        "title": "Puyo Puyo Tetris",
+        "year": [2014, 2024],
+        "score": 9,
+        "time": 77,
+        "conq": 64,
+        "played": 1,
+        "n": 0,
+        "genres": ["Arcade"],
+        "platform": ["Steam"],
+        "dev": ["Sega"],
+        "img": "https://cdn2.steamgriddb.com/grid/8e95ecf89eb411bfc41bc406be264e42.png"
+    },{
+        "game": "Pokemon 3 3",
+        "serie": "Pokemon",
+        "title": "Pokemon Fire Red",
+        "year": [2004, 2021],
+        "score": 7,
+        "time": 0,
+        "conq": 100,
+        "played": 2,
+        "n": 0,
+        "genres": ["Creature Collector"],
+        "platform": ["GBA"],
+        "dev": ["Nintendo","Game Freak"],
+        "img": "https://cdn2.steamgriddb.com/grid/02364616164166b84371270ca2e6eda2.png"
+    },{
+        "game": "Ratatouille",
+        "serie": "",
+        "title": "Ratatouille",
+        "year": [2007, 2024],
+        "score": 6,
+        "time": 0,
+        "conq": 0,
+        "played": 3,
+        "n": 0,
+        "genres": ["Plataforma 3D"],
+        "platform": ["Windows", "PS2"],
+        "dev": [""],
+        "img": "https://cdn2.steamgriddb.com/grid/357640a3884804fc1787ea511137e51b.png"
+    },{
+        "game": "Resident Remake 2",
+        "serie": "Resident Evil",
+        "title": "Resident Evil 2 Remake",
+        "year": [2019, 2022],
+        "score": 10,
+        "time": 30,
+        "conq": 54,
+        "played": 2,
+        "n": 0,
+        "genres": ["Survival Horror"],
+        "platform": ["Steam"],
+        "dev": ["Capcom"],
+        "img": "https://cdn2.steamgriddb.com/grid/fb5b3b5d234aa718062e3b4f6c826e23.png"
+    },{
+        "game": "Resident 4",
+        "serie": "Resident Evil",
+        "title": "Resident Evil 4",
+        "year": [2005, 2025],
+        "score": 9,
+        "time": 45,
+        "conq": 100,
+        "played": 5,
+        "n": 0,
+        "genres": ["Action"],
+        "platform": ["PS2","Steam","Nintendo Gamecube"],
+        "dev": ["Capcom"],
+        "img": "https://cdn2.steamgriddb.com/grid/a7ee11c99daa86125832bfc5e5a06cce.png"
+    },{
+        "game": "Resident 7",
+        "serie": "Resident Evil",
+        "title": "Resident Evil 7",
+        "year": [2017, 2022],
+        "score": 9,
+        "time": 0,
+        "conq": 0,
+        "played": 1,
+        "n": 0,
+        "genres": ["Survival Horror"],
+        "platform": ["Steam","Gamepass"],
+        "dev": ["Capcom"],
+        "img": "https://cdn2.steamgriddb.com/grid/c5c8f54138e6b9a67eeb4b5d186b27d0.png"
+    },{
+        "game": "Resident Remake 1",
+        "serie": "Resident Evil",
+        "title": "Resident Evil Remake",
+        "year": [2005, 2023],
+        "score": 8,
+        "time": 15,
+        "conq": 45,
+        "played": 1,
+        "n": 0,
+        "genres": ["Survival Horror"],
+        "platform": ["Steam"],
+        "dev": ["Capcom"],
+        "img": "https://cdn2.steamgriddb.com/grid/4ce009efd2b0f7a9c9507c94ed61bb5a.png"
+    },{
+        "game": "Return of the Obra Dinn",
+        "serie": "",
+        "title": "Return of the Obra Dinn",
+        "year": [2018, 2024],
+        "score": 9,
+        "time": 0,
+        "conq": 100,
+        "played": 3,
+        "n": 0,
+        "genres": ["Puzzle"],
+        "platform": ["Pirata"],
+        "dev": ["Lucas Pope"],
+        "img": "https://cdn2.steamgriddb.com/grid/a8332c3cfa5211ee092650a92021d8a7.png"
+    },{
+        "game": "Tomb Raider 2014",
+        "serie": "Tomb Raider",
+        "title": "Rise of the Tomb Raider",
+        "year": [2015, 2025],
+        "score": 7,
+        "time": 0,
+        "conq": 0,
+        "played": 1,
+        "n": 0,
+        "genres": ["Aventura"],
+        "platform": ["Epic Games"],
+        "dev": ["Crystal Dynamics","Square Enix"],
+        "img": "https://cdn2.steamgriddb.com/grid/5f04efcf44563e7c83c2b86b365e7230.png"
+    },{
+        "game": "River City Girls",
+        "serie": "River City",
+        "title": "River City Girls",
+        "year": [2019, 2023],
+        "score": 5,
+        "time": 0,
+        "conq": 0,
+        "played": 1,
+        "n": 0,
+        "genres": ["Beat 'em up"],
+        "platform": ["Pirata"],
+        "dev": ["Arc System Works","WayFoward"],
+        "img": "https://cdn2.steamgriddb.com/grid/c126e32469eebe76edca3299f6c9e775.jpg"
+    },{
+        "game": "Rusty Lake Hotel",
+        "serie": "Rusty Lake",
+        "title": "Rusty Lake Hotel",
+        "year": [2015, 2023],
+        "score": 1,
+        "time": 2,
+        "conq": 100,
+        "played": 2,
+        "n": 0,
+        "genres": ["Puzzle"],
+        "platform": ["Steam"],
+        "dev": [""],
+        "img": "https://cdn2.steamgriddb.com/grid/9f4f5e72c2a00c7bb4e9f03972e91bb0.png"
     },
-
                 {
                     "game": "Super Mario 3D",
                     "serie": "Mario",
