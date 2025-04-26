@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Library</title>
+    <link rel="stylesheet" href="1 - styles.css">
+</head>
+<body>
+    <!-- Barra lateral -->
+    <div class="sidebar">
+        <h2>Filtrar e Ordenar</h2>
+
+                <!-- Barra de pesquisa -->
+        <h3 class="filtertext">Pesquisas:</h3>
+            <input type="text" id="search-bar" placeholder="Título...">
+            <input type="text" id="search-dev" placeholder="Dsenvolvedor..." oninput="applyFilters()">
+            <input type="text" id="search-platform" placeholder="Plataforma..." oninput="applyFilters()">
+            <input type="text" id="search-genre" placeholder="Gênero..." oninput="applyFilters()">
+            <input type="text" id="search-release-year" placeholder="Lançamento..." oninput="applyFilters()">
+
+        <!-- Botão de filtro por conq = 100 -->
+        <button id="filter-conq">Platinados</button>
+
+        <!-- FILTRO DE NOTAS -->
+        <div class="filter-group">
+            <h3 class="filtertext">Notas:</h3>
+            <select id="filter-score" onchange="applyFilters()">
+                <option value="">0 - Todas</option>
+                <option value="10">10 - Perfeito</option>
+                <option value="9">9 - Ótimo</option>
+                <option value="8">8 - Muito Bom</option>
+                <option value="7">7 - Bom</option>
+                <option value="6">6 - Decente</option>
+                <option value="5">5 - Tanto Faz</option>
+                <option value="4">4 - Medíocre</option>
+                <option value="3">3 - Ruim</option>
+                <option value="2">2 - Horrível</option>
+                <option value="1">1 - Tragédia</option>
+            </select>
+        </div>
+        
+        <!-- Filtro pelo ano que joguei -->
+        <div class="filter-group">
+            <h3 class="filtertext">Ano que joguei:</h3>
+            <select id="filter-played-year">
+                <option value="">Todos</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+                <option value="2024">2024</option>
+                <option value="2025">2025</option>
+            </select>
+        </div>
+        
+        <!-- Ordenação -->
+        <div class="filter-group">
+            <h3 class="filtertext">Ordenar por:</h3>
+            <select id="sort-options">
+                <option value="game">Ordem Alfabética</option>
+                <option value="score">Notas Decrescentes</option>
+                <option value="year">Data de Lançamento</option>
+                <option value="time">Tempo de Jogo</option>
+                <option value="conq">Conquistas Alcançadas</option>
+                <option value="n">Ordem que Joguei</option>
+                <option value="played">Vezes que Zerei</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Container dos jogos -->
+    <div class="game-container" id="game-container">
+        <!-- Os cards dos jogos serão inseridos aqui pelo JavaScript -->
+    </div>
+
+    <script src="1 - script.js"></script>
+</body>
+</html>
+
+<audio id="open-sound" src="../audio/entrar.wav"></audio>
+<audio id="close-sound" src="../audio/sair.wav"></audio>
