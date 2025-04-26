@@ -26,17 +26,17 @@
         <div class="filter-group">
             <h3 class="filtertext">Notas:</h3>
             <select id="filter-score" onchange="applyFilters()">
-                <option value="">Todas</option>
-                <option value="10">10</option>
-                <option value="9">9</option>
-                <option value="8">8</option>
-                <option value="7">7</option>
-                <option value="6">6</option>
-                <option value="5">5</option>
-                <option value="4">4</option>
-                <option value="3">3</option>
-                <option value="2">2</option>
-                <option value="1">1</option>
+                <option value="">0 - Todas</option>
+                <option value="10">10 - Perfeito</option>
+                <option value="9">9 - Ótimo</option>
+                <option value="8">8 - Muito Bom</option>
+                <option value="7">7 - Bom</option>
+                <option value="6">6 - Decente</option>
+                <option value="5">5 - Tanto Faz</option>
+                <option value="4">4 - Medíocre</option>
+                <option value="3">3 - Ruim</option>
+                <option value="2">2 - Horrível</option>
+                <option value="1">1 - Tragédia</option>
             </select>
         </div>
         
@@ -59,8 +59,12 @@
             <h3 class="filtertext">Ordenar por:</h3>
             <select id="sort-options">
                 <option value="game">Ordem Alfabética</option>
-                <option value="score">Score</option>
-                <option value="year">Menor Ano</option>
+                <option value="score">Notas Decrescentes</option>
+                <option value="year">Data de Lançamento</option>
+                <option value="time">Tempo de Jogo</option>
+                <option value="conq">Conquistas Alcançadas</option>
+                <option value="n">Ordem que Joguei</option>
+                <option value="played">Vezes que Zerei</option>
             </select>
         </div>
     </div>
